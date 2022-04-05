@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/HelloToast/app/src/main/res/layout-land/activity_main.xml" value="0.21516754850088182" />
+        <entry key="..\:/HelloToast/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.190625" />
         <entry key="..\:/HelloToast/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Lab-1/HelloToast/app/src/main/res/layout/activity_main.xml" value="0.11302083333333333" />
+        <entry key="..\:/Lab-2/HelloToastLayout/app/src/main/res/layout-land/activity_main.xml" value="0.21516754850088182" />
+        <entry key="..\:/Lab-2/HelloToastLayout/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.1721311475409836" />
+        <entry key="..\:/Lab-2/HelloToastLayout/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
       </map>
     </option>
   </component>
